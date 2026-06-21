@@ -8,6 +8,9 @@ Confira tudo o que temos no nosso YouTube. É gratis! Segue o link:
 
 [Curso Git 2025](https://youtube.com/@teomewhy)
 
+Além desse link pode seguir para meu linkedin para seguir :
+www.linkedin.com/in/patrickdatabi
+
 Além do nosso YouTube, se ligue no nosso site e agenda para ficar por dentro de tudo que vai rolar em 2025.
 
 Conheça nosso site: [teomewhy.org](https://teomewhy.org/schedule)
