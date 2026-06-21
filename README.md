@@ -65,5 +65,3 @@ Pessoas participantes:
 - Patrick Calixto
 - Tales
 - Téo Calvo
-
-- dwidiwjdiwdj
