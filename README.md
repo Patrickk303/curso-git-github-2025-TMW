@@ -53,6 +53,7 @@ Apoie nosso projeto no [Apoia-se](apoia.se/teomewhy)
 11. excluir <nova_branch> origin
 12. git checkout main
 13. git branch -D <nova_branch>
+14. Fechar os programas
 
 ----
 
